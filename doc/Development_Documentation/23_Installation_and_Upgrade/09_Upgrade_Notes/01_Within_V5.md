@@ -22,7 +22,7 @@ doctrine/doctrine-migrations-bundle doctrine/instantiator egulias/email-validato
 guzzlehttp/guzzle hybridauth/hybridauth lcobucci/jwt league/csv linfo/linfo mjaschen/phpgeo monolog/monolog mpratt/embera myclabs/deep-copy \
 myclabs/php-enum neitanod/forceutf8 nesbot/carbon ocramius/package-versions ocramius/proxy-manager oyejorge/less.php pear/net_url2 \
 phive/twig-extensions-deferred pimcore/core-version piwik/device-detector presta/sitemap-bundle ramsey/uuid sabre/dav sensio/distribution-bundle \
-sensio/framework-extra-bundle sensio/generator-bundle sensiolabs/ansi-to-html symfony-cmf/routing-bundle symfony/monolog-bundle symfony/polyfill-apcu\
+sensio/framework-extra-bundle sensio/generator-bundle sensiolabs/ansi-to-html symfony-cmf/routing-bundle symfony/monolog-bundle symfony/polyfill-apcu \
 symfony/swiftmailer-bundle tijsverkoyen/css-to-inline-styles twig/extensions twig/twig umpirsky/country-list vrana/adminer vrana/jush \
 wa72/htmlpagedom zendframework/zend-code zendframework/zend-paginator zendframework/zend-servicemanager scheb/two-factor-bundle 
 ```
